@@ -12,17 +12,6 @@
 
 - ⚡ Fun fact I Create Youtube Videos
 
-  [
-  {
-    "provider": "generic",
-    "url": "https://www.youtube.com/x/"
-  },
-  {
-    "provider": "youtube",
-    "url": "https://www.youtube.com/user/x"
-  }
-]
-
 <br/>  
 
 
