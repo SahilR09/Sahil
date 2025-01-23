@@ -12,6 +12,7 @@
 
 - ⚡ Fun fact I Create Youtube Videos
 -    Channel:  https://www.youtube.com/@Me_09
+-    Linkdin: www.linkedin.com/in/sahilrangi
 
 <br/>  
 
